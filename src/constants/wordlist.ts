@@ -1,4 +1,11 @@
 export const WORDS = [
+  'cycle',
+  'sales',
+  'class',
+  'tools',
+  'stock',
+  'exist',
+  'firms',
   'smart',
   'trees',
   'world',
