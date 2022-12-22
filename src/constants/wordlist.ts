@@ -98,4 +98,5 @@ export const WORDS = [
   'devil',
   'nudge',
   'taunt',
+  'enter',
 ]
