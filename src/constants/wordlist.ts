@@ -26,6 +26,5 @@ export const WORDS = [
   'world',
   'share',
   'jumps',
-  'world',
   'trend',
 ]
