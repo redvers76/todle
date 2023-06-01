@@ -18,7 +18,6 @@ export const WORDS = [
   'going',
   'mount',
   'aware',
-  'irish',
   'terms',
   'rules',
   'funds',
@@ -27,8 +26,6 @@ export const WORDS = [
   'world',
   'share',
   'jumps',
-  'grand',
-  'multi',
   'world',
   'trend',
 ]
