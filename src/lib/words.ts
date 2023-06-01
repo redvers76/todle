@@ -15,8 +15,8 @@ import { WORDS } from '../constants/wordlist'
 import { getToday } from './dateutils'
 import { getGuessStatuses } from './statuses'
 
-// 25 October 2022 is Game Epoch
-export const firstGameDate = new Date(2022, 9, 25)
+// 1 May 2023 is Game Epoch
+export const firstGameDate = new Date(2023, 4, 1)
 export const periodInDays = 1
 
 export const isWordInWordList = (word: string) => {
